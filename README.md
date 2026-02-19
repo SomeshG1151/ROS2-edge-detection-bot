@@ -177,21 +177,8 @@ This project demonstrates:
 
 ---
 
-# 🔮 Future Improvements
+# 📸 Snapshots
 
-- Obstacle avoidance
-- Autonomous navigation
-- SLAM integration
-- Mapping and localization
-- PID tuning
-- MoveIt integration
-- Real robot hardware deployment
-
----
-
-# 📸 Add Screenshots
-
-(Add Gazebo + RViz screenshots here)
 
 ---
 
@@ -202,6 +189,3 @@ Robotics | ROS2 | Autonomous Systems | Simulation
 
 ---
 
-# 📜 License
-
-MIT License
